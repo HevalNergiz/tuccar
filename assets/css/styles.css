@@ -1,4 +1,32 @@
+button {
+  width: 100%;
+}
+
+.btn-warning {
+  color: #181818;
+  background-color: #daaf47;
+  border-color: #ffc107;
+  font-weight: 600;
+}
+
+.btndiv {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.btndiv i, .btndiv svg {
+  position: absolute;
+  left: 1rem;
+  top: calc(50% - 10px);
+  color: #181818;
+  font-size: 20px;
+}
+
 .container {
-  max-width: 700px;
+  max-width: 600px;
+}
+
+a {
+  width: 100%;
 }
 

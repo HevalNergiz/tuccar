@@ -42,3 +42,7 @@ a {
   border-color: #ffc720;
 }
 
+.btn {
+  border-radius: 0px;
+}
+

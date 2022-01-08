@@ -46,3 +46,7 @@ a {
   border-radius: 0px;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+

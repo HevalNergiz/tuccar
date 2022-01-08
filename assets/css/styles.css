@@ -3,7 +3,7 @@ button {
 }
 
 .btn-warning {
-  color: #181818;
+  color: #ffffff;
   background-color: #daaf47;
   border-color: #daaf47;
   font-weight: 600;
@@ -18,7 +18,7 @@ button {
   position: absolute;
   left: 1rem;
   top: calc(50% - 10px);
-  color: #181818;
+  color: #ffffff;
   font-size: 20px;
 }
 
@@ -34,5 +34,11 @@ a {
   height: 3rem;
   display: grid!important;
   align-items: center;
+}
+
+.btn-warning:hover {
+  color: #ffffff;
+  background-color: #ffca2c;
+  border-color: #ffc720;
 }
 

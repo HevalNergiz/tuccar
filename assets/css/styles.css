@@ -50,3 +50,14 @@ body::-webkit-scrollbar {
   display: none;
 }
 
+.btn-light {
+  color: #ffaf00;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
+  font-weight: 400;
+}
+
+.btn:hover {
+  color: #d99500;
+}
+
